@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UE5/UE-labs/Lab01/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/UE5/UE-labs/Lab01/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
+				"C:/UE5/UE-labs/Lab01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/HL/XWFFRCIJ8QK4NRO30ALA6J.uasset",
+				"C:/UE5/UE-labs/Lab01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/YO/NG2R9BPZVA7ZDN0Z4VSTG6.uasset",
+				"C:/UE5/UE-labs/Lab01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/UE5/UE-labs/Lab01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/Z9/LK37CC3PQTOSTI2N7G6S1P.uasset",
+				"C:/UE5/UE-labs/Lab01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/3L/26X3N953MMKKO4OZGY7400.uasset",
+				"C:/UE5/UE-labs/Lab01/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0T/FY7J5O2DS66XTU4TIPHLPR.uasset",
+				"C:/UE5/UE-labs/Lab01/Content/ThirdPerson/Blueprints/NewBlueprint.uasset"
+			]
+		}
+	]
+}
